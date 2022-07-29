@@ -1,0 +1,17 @@
+{
+    "signIn": "Login",
+    "signUp": "Registration",
+    "notHasAccount": "Not has account?",
+    "hasAccount": "Already has account?",
+    "login": "Login",
+    "password": "Password",
+    "submit": "Submit",
+    "emptyFieldError": "Field must be filled",
+    "interests": "{name, select, business{Business}, art{Art}, economy{Economy}, worldNews{World News}, politics{Politics}}",
+    "@interests": {
+        "description": "Interests",
+        "placeholders": {
+            "name": {}
+        }
+    }
+}

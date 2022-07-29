@@ -1,0 +1,17 @@
+{
+    "signIn": "Вход",
+    "signUp": "Регистрация",
+    "notHasAccount": "Нет аккаунта?",
+    "hasAccount": "Есть аккаунт?",
+    "login": "Логин",
+    "password": "Пароль",
+    "submit": "Отправить",
+    "emptyFieldError": "Поле должно быть заполено",
+    "interests": "{name, select, business{Бизнес}, art{Искусство}, economy{Экономика}, worldNews{Мировые новости}, politics{Политика}}",
+    "@interests": {
+        "description": "Interests",
+        "placeholders": {
+            "name": {}
+        }
+    }
+}
